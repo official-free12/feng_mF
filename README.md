@@ -1,0 +1,6 @@
+# 疯狂蚂蚁区块链模式源码区块链模式全开源可二开可封装APP
+
+我们卖的都是优质源码，当然也有市面上常见的框架后台，但是上架之前源码我们都是经过阿里注入漏洞检测的，大家可以放心使用，<br>如果有需要可以进行二次开发，请联系QQ进行详聊<br>1：为避免不必要的纠纷，本店源码均提供前后台演示，如果失效请联系客服提供前后台或测试账号；<br>2：请务必测试完演示站再决定是否购买，一但拍下，不接受非源码质量问题上的退款申请；<br>3：标价仅为源码费用，如果需要提供安装服务，请事先联系店主并确保你的主机必须为宝塔环境，需提供宝塔账号。<br>4：免费安装服务仅限搭建到服务器，能够访问前后台。涉及对接支付接口、API对接等服务，另外协商费用；<br>5：程序仅供学习研究，请勿用于非法用途，不得违反国家法律，否则后果自负，一切法律责任与本店无关。<br>6：请仔细阅读以上条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>注意：资源不可用于违规用途否则造成的一切后果自负<br>我们不以低价吸引客户，我们靠的是售后服务于技术，我们的核心就是全程售后维护指导，经验指导，争取长期合作！我们坚信任何客户都不是一次的买卖。做生意，更是做朋友！QQ：1743719367<br>example.com， 美观可比一级项目。<br>example.com，盈利多少掌握在手<br>。example.com，可做二开， 全网独有。example.com。example.com，以及指导价格。example.com。example.com，各种数字表格图形。example.com。example.com。测试环境：example.com+example.com+example.com,设置TP伪静态<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZBip4" style="color: red;">https://mega-file.org/ZBip4</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
